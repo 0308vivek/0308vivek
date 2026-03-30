@@ -1,5 +1,37 @@
 # 💫 About Me:
-👋 Hi, I’m 𝗩𝗶𝘃𝗲𝗸 𝗣𝗿𝗮𝘀𝗮𝗱<br>I’m a Full-Stack Developer with a strong foundation in building scalable and responsive web applications, combined with a growing focus on Artificial Intelligence and Cybersecurity. I enjoy transforming complex problems into efficient, well-structured solutions by leveraging modern web technologies along with intelligent and secure system design.<br>With hands-on experience across frontend and backend development, I focus on writing clean, optimized, and production-ready code. I am particularly interested in systems where functionality meets intelligence and security — building applications that are not only scalable but also resilient and insightful.<br>🌱 Currently Learning<br>Artificial Intelligence & Machine Learning, advanced cybersecurity practices, system design, and building secure, scalable backend architectures.<br>🛠 Engineering Focus<br>Designing full-stack applications with clean architecture, optimizing performance, and integrating security best practices into development workflows while exploring AI-driven enhancements.<br>🧠 Areas of Interest<br>Full-stack development, backend architecture, web security, penetration testing, scalable systems, performance optimization, and AI integration in real-world applications.<br>🎯 Career Objective<br>To grow as a software engineer in a challenging environment by building intelligent, scalable, and secure systems, while continuously strengthening my expertise in full-stack development, AI, and cybersecurity.
+
+👋 Hi, I’m 𝗩𝗶𝘃𝗲𝗸 𝗣𝗿𝗮𝘀𝗮𝗱  
+
+I’m a Full-Stack Developer with a strong foundation in building scalable and responsive web applications, combined with a growing focus on Artificial Intelligence and Cybersecurity. I enjoy transforming complex problems into efficient, well-structured solutions by leveraging modern web technologies along with intelligent and secure system design.  
+
+With hands-on experience across frontend and backend development, I focus on writing clean, optimized, and production-ready code. I am particularly interested in systems where functionality meets intelligence and security — building applications that are not only scalable but also resilient and insightful.  
+
+---
+
+### 🌱 Currently Learning
+Artificial Intelligence & Machine Learning, advanced cybersecurity practices, system design, and building secure, scalable backend architectures.  
+
+---
+
+### 🛠 Engineering Focus
+Designing full-stack applications with clean architecture, optimizing performance, and integrating security best practices into development workflows while exploring AI-driven enhancements.  
+
+---
+
+### 🧠 Areas of Interest
+Full-stack development, backend architecture, web security, penetration testing, scalable systems, performance optimization, and AI integration in real-world applications.  
+
+---
+
+### 🎯 Career Objective
+To grow as a software engineer in a challenging environment by building intelligent, scalable, and secure systems, while continuously strengthening my expertise in full-stack development, AI, and cybersecurity.  
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-prasad-41744633b)
+
+---
 
 
 ## 🌐 Socials:
